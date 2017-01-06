@@ -1,0 +1,2 @@
+# PhylogeneticTrees
+Builds and manipulates phylogenetic trees by comparing the difference between sets of aligned amino acid sequences, with one sequence for each species. By comparing the differences between these sequences this program can infer a hierarchial structuring of the species with respect to the evolutionary relationships between them. Species live on the leaves of the phylogenetic tree.
