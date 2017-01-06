@@ -7,3 +7,4 @@ Once the tree is generated, the user can query the trees to find common ancestor
 
 This program analyizes amino acid sequences which are in a FASTA format (see https://en.wikipedia.org/wiki/FASTA_format for more information).
 
+This progra
