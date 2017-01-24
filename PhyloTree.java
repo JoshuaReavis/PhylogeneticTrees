@@ -8,7 +8,6 @@
  * is the same as parent to right child.
  *
  * Joshua Reavis
- * Created for CSCI 241 Data Structures
  * Spring 2016
  */
 
