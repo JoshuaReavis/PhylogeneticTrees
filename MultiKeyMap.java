@@ -6,33 +6,11 @@
  * corresponds to a mapping from two strings to an Integer
  * 
  * A two key map acts similar to HashMap, except that it supports
- * having two keys.  If you define a MultiKeyMap<Integer> variable named
- * someMap, then
+ * having two keys. 
  *
- * someMap.put("hi","dog",5);
- * 
- * is equivalent to
- * 
- * someMap.put("dog","hi",5);
- * 
- * and the value associated with these two keys could be retrieved by either
- * 
- * someMap.get("hi","dog") 
- *
- * or 
- * 
- * someMap.get("dog","hi")
- *
- * This class has been implemented for you, but you may extend or
- * modify it if you want.  If you modify, you must check this file
- * in to your repository.
  * 
  * Brian Hutchinson
  * Feb 2016
- *
- * If modified, student name goes here and modification date go here
- *
- */
 
 public class MultiKeyMap<V> {
     private java.util.HashMap<String,V> map;
