@@ -7,4 +7,6 @@ Once the tree is generated, the user can query the trees to find common ancestor
 
 This program analyizes amino acid sequences which are in a FASTA format (see https://en.wikipedia.org/wiki/FASTA_format for more information).
 
-The main is contained within Program3.java, where as the rest of the .java files contain classes and function calls relevant to the program. Note that of these programs, I have ONLY WRITTEN PhyloTree.java, and the rest of the programs were provided to me by my professor.
+The main is contained within Driver.java, where as the rest of the .java files contain classes and function calls relevant to the program. 
+
+If you're interested in gaging my own java coding abilities, then I direct you to PhyloTree.java. This is the only java file which I have written within this program. I have uploaded the rest of the files which were provided to me so that any reader has the proper context to understand my own code.
