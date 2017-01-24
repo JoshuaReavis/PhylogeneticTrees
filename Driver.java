@@ -1,14 +1,10 @@
 /* 
- * Program3.java
- *
- * The driver program for CSCI 241's Program 3
+ * Driver.java
  *
  * Creates PhyloTree objects for each FASTA file in alignment list input file
  * Infers the hierarhical structure, computes all pairwise evolutionary 
  * distances, and reports other tree statistics
  * 
- * Do not modify this file.  
- *
  * Brian Hutchinson
  * Feb 2016
  *
@@ -28,7 +24,7 @@
  *
 */
 
-public class Program3 {
+public class Driver {
     private static final int PRINTING_DEPTH = 100;
     private static final String slash = "/"; // You may need to change this to "\" on Windows...
 
