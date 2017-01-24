@@ -12,7 +12,7 @@
  *
  * usage:
  *
- * java Program3 fastaListFilename outputDir
+ * java Driver fastaListFilename outputDir
  *
  * where the argument is
  * 
